@@ -1,5 +1,4 @@
 # Calculator Project
-![Calculator Screenshot](/calculator-screenshot.png)
 This is a simple calculator built using HTML, CSS, and JavaScript. It allows basic arithmetic operations such as addition, subtraction, multiplication, division, and percentage calculations. It also includes features like handling decimal points, clearing the display, and using the keyboard for input.
 
 ## Features
@@ -35,3 +34,4 @@ This is a simple calculator built using HTML, CSS, and JavaScript. It allows bas
 
 ## Contributing
 Feel free to fork this repository, make changes, and submit a pull request. Contributions are welcome!
+![Calculator Screenshot](/calculator-screenshot.png)
